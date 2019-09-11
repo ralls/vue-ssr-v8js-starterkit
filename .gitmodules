@@ -1,0 +1,3 @@
+[submodule "vue-ssr-starterkit"]
+	path = vue-ssr-starterkit
+	url = https://github.com/y-nk/vue-ssr-starterkit
