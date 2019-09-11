@@ -1,0 +1,5 @@
+{
+    "require": {
+        "chenos/v8js-module-loader": "^0.4.0"
+    }
+}
